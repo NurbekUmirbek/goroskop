@@ -1,1 +1,1 @@
-# horskop
+# goroskop
